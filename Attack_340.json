@@ -1,0 +1,30 @@
+{
+    "Data.Attack": {
+        "hp": 45.0,
+        "fall": 300.0,
+        "brk": 200.0,
+        "name": "eagle_kick_2",
+        "ref": -1.0,
+        "z1": 60.0,
+        "dizzy": 30.0,
+        "x1": 0.0,
+        "stun": 2.0,
+        "x2": 150.0,
+        "z2": 0.0,
+        "y1": 0.0,
+        "type": 1.0,
+        "y2": 150.0,
+        "selfStun": 2.0,
+        "effect": 0.0,
+        "vx": 30.0,
+        "dxMirror": false,
+        "vy": -40.0,
+        "i": 16.0,
+        "vz": 0.0,
+        "j": 0.0,
+        "dx": 0.0,
+        "refName": null,
+        "l": 1.0,
+        "aaa": true
+    }
+}
