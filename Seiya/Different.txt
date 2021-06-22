@@ -1,0 +1,650 @@
+0) ['STAND', 1, 6, 6]:
+1 vs 1: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+2 vs 2: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+3 vs 3: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+4 vs 4: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+5 vs 5: ['attackB', 'editAttackB', 'lmat', 'rendered']
+6 vs 6: ['attackB', 'editAttackB', 'lmat', 'rendered']
+
+1) ['STAND', 1, 6, 6]:
+7 vs 7: ['attackB', 'cx1', 'cx2', 'dbx1', 'dbx2', 'editAttackB', 'lmat', 'rendered', 'uz']
+8 vs 8: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+9 vs 9: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+10 vs 10: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+11 vs 11: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+12 vs 12: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+13 vs 13: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+14 vs 14: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+15 vs 15: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+2) ['STAND', 1, 6, 6]:
+16 vs 16: ['attackB', 'body', 'by1', 'by2', 'cy1', 'cy2', 'editAttackB', 'footY', 'lmat', 'lp3', 'rendered', 'uz']
+17 vs 17: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'lmat', 'rendered', 'uz']
+18 vs 18: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+19 vs 19: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+20 vs 20: ['attackB', 'body', 'by1', 'by2', 'cx1', 'cx2', 'cy1', 'cy2', 'dbx1', 'dbx2', 'dby1', 'dby2', 'editAttackB', 'footDy', 'footY', 'lmat', 
+'lp3', 'rendered', 'uz']
+21 vs 21: ['attackB', 'body', 'by1', 'by2', 'cx1', 'cy1', 'cy2', 'dbx1', 'editAttackB', 'footY', 'lmat', 'lp3', 'rendered', 'uz']
+22 vs 22: ['attackB', 'body', 'by1', 'by2', 'cx2', 'cy1', 'cy2', 'dbx2', 'dby1', 'editAttackB', 'footY', 'lmat', 'lp1', 'lp3', 'rendered', 'uz']  
+23 vs 23: ['attackB', 'body', 'by1', 'by2', 'cy1', 'cy2', 'editAttackB', 'footY', 'lmat', 'lp3', 'rendered', 'uz']
+
+3) ['STAND', 1, 6, 6]:
+24 vs 24: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+25 vs 25: ['attackB', 'cy2', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+4) ['STAND', 1, 6, 6]:
+26 vs 26: ['attackB', 'cy2', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+27 vs 27: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+5) ['STAND', 1, 6, 6]:
+28 vs 28: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'lmat', 'rendered', 'uz']
+29 vs 29: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+30 vs 30: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+31 vs 31: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+6) ['STAND', 1, 6, 6]:
+32 vs 32: ['attackB', 'editAttackB', 'lmat', 'rendered']
+33 vs 33: ['attackB', 'dby2', 'editAttackB', 'lmat', 'rendered']
+
+7) ['STAND', 1, 6, 6]:
+34 vs 34: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'lmat', 'rendered', 'uz']
+35 vs 35: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+8) ['STAND', 1, 6, 6]:
+36 vs 36: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+37 vs 37: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+9) ['STAND', 1, 6, 6]:
+38 vs 38: ['attackB', 'dbx2', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+39 vs 39: ['attackB', 'dbx2', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+
+10) ['STAND', 1, 6, 6]:
+40 vs 40: ['attackB', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+41 vs 41: ['attackB', 'dbx1', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+
+11) ['STAND', 1, 6, 6]:
+42 vs 42: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+43 vs 43: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+12) ['STAND', 1, 6, 6]:
+44 vs 44: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+45 vs 45: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+13) ['STAND', 1, 6, 6]:
+46 vs 46: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+47 vs 47: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+14) ['STAND', 1, 6, 6]:
+48 vs 48: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+49 vs 49: ['attackB', 'editAttackB', 'lmat', 'rendered']
+50 vs 50: ['attackB', 'dbx1', 'editAttackB', 'lmat', 'rendered']
+51 vs 51: ['attackB', 'editAttackB', 'lmat', 'rendered']
+
+15) ['STAND', 1, 6, 6]:
+52 vs 52: ['attackB', 'body', 'by1', 'by2', 'dby1', 'dby2', 'editAttackB', 'footY', 'lmat', 'rendered', 'uz']
+53 vs 53: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+16) ['STAND', 1, 6, 6]:
+52 vs 52: ['attackB', 'body', 'by1', 'by2', 'dby1', 'dby2', 'editAttackB', 'footY', 'lmat', 'rendered', 'uz']
+53 vs 53: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+17) ['STAND', 1, 6, 6]:
+54 vs 54: ['attackB', 'cx1', 'cy1', 'dbx1', 'dby1', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+18) ['STAND', 1, 6, 6]:
+55 vs 55: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+19) ['STAND', 1, 6, 6]:
+56 vs 56: ['attackB', 'cy2', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+20) ['STAND', 1, 6, 6]:
+57 vs 57: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+21) ['STAND', 1, 6, 6]:
+58 vs 58: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+22) ['STAND', 1, 6, 6]:
+59 vs 59: ['attackB', 'cy2', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+23) ['STAND', 1, 6, 6]:
+60 vs 60: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+24) ['STAND', 1, 6, 6]:
+61 vs 61: ['attackB', 'dby2', 'editAttackB', 'lmat', 'rendered']
+
+25) ['STAND', 1, 6, 6]:
+62 vs 62: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+26) ['STAND', 1, 6, 6]:
+63 vs 63: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+27) ['STAND', 1, 6, 6]:
+64 vs 64: ['attackB', 'cy2', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+28) ['STAND', 1, 6, 6]:
+65 vs 65: ['attackB', 'body', 'cy1', 'cy2', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+29) ['STAND', 1, 6, 6]:
+66 vs 66: ['attackB', 'cx1', 'cy1', 'cy2', 'dbx1', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+67 vs 67: ['attackB', 'cx1', 'cx2', 'cy2', 'dbx1', 'dbx2', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+68 vs 68: ['attackB', 'cx2', 'cy1', 'cy2', 'dbx2', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+69 vs 69: ['attackB', 'cx2', 'cy2', 'dbx2', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+30) ['STAND', 1, 6, 6]:
+70 vs 70: ['attackB', 'dbx1', 'dbx2', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+71 vs 71: ['attackB', 'dbx1', 'dbx2', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+72 vs 72: ['attackB', 'dbx2', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+73 vs 73: ['attackB', 'dbx1', 'dbx2', 'dby1', 'editAttackB', 'lmat', 'rendered']
+
+31) ['STAND', 1, 6, 6]:
+74 vs 74: ['attackB', 'cx2', 'cy2', 'dbx2', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+75 vs 75: ['attackB', 'dbx2', 'dby2', 'editAttackB', 'lmat', 'rendered']
+76 vs 76: ['attackB', 'dbx2', 'dby2', 'editAttackB', 'lmat', 'rendered']
+77 vs 77: ['attackB', 'dbx2', 'dby2', 'editAttackB', 'lmat', 'rendered']
+78 vs 78: ['attackB', 'dbx2', 'dby2', 'editAttackB', 'lmat', 'rendered']
+
+32) ['STAND', 1, 6, 6]:
+79 vs 79: ['attackB', 'dby1', 'editAttackB', 'lmat', 'rendered']
+80 vs 80: ['attackB', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+81 vs 81: ['attackB', 'dbx1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+82 vs 82: ['attackB', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+83 vs 83: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+33) ['STAND', 1, 6, 6]:
+84 vs 84: ['attackB', 'cy1', 'dby1', 'editAttackB', 'lmat', 'rendered', 'uz']
+85 vs 85: ['attackB', 'cy1', 'dby1', 'editAttackB', 'lmat', 'rendered', 'uz']
+86 vs 86: ['attackB', 'cx1', 'cy2', 'dbx1', 'dby2', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+34) ['STAND', 1, 6, 6]:
+87 vs 87: ['attackB', 'cy1', 'dby1', 'editAttackB', 'lmat', 'rendered', 'uz']
+88 vs 88: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+89 vs 89: ['attackB', 'dbx2', 'dby1', 'dby2', 'editAttackB', 'lmat', 'rendered']
+
+35) ['STAND', 1, 6, 6]:
+90 vs 90: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+91 vs 91: ['attackB', 'body', 'by2', 'editAttackB', 'editBody', 'lmat', 'rendered']
+92 vs 92: ['attackB', 'body', 'by2', 'editAttackB', 'editBody', 'lmat', 'rendered']
+93 vs 93: ['attackB', 'body', 'editAttackB', 'editBody', 'lmat', 'rendered']
+94 vs 94: ['attackB', 'body', 'by2', 'editAttackB', 'editBody', 'lmat', 'rendered']
+95 vs 95: ['UseDefBody', 'attackB', 'body', 'bx2', 'by2', 'editAttackB', 'editBody', 'lmat', 'rendered']
+96 vs 96: ['attackB', 'dby2', 'editAttackB', 'lmat', 'rendered']
+
+36) ['STAND', 1, 6, 6]:
+97 vs 97: ['attackB', 'cy1', 'dby1', 'editAttackB', 'lmat', 'rendered', 'uz']
+98 vs 98: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+99 vs 99: ['attackB', 'cx1', 'cx2', 'dbx1', 'dbx2', 'editAttackB', 'lmat', 'rendered', 'uz']
+100 vs 100: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+101 vs 101: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+102 vs 102: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz']
+103 vs 103: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'lmat', 'rendered', 'uz']
+
+37) ['STAND', 1, 6, 6]:
+104 vs 104: ['attackB', 'dby1', 'editAttackB', 'lmat', 'rendered']
+105 vs 105: ['attackB', 'editAttackB', 'lmat', 'rendered']
+
+38) ['STAND', 1, 6, 6]:
+106 vs 106: ['attackB', 'dbx1', 'editAttackB', 'lmat', 'rendered']
+
+39) ['STAND', 1, 6, 6]:
+107 vs 107: ['attackB', 'editAttackB', 'lmat', 'rendered']
+
+40) ['STAND', 1, 6, 6]:
+108 vs 108: ['attackB', 'editAttackB', 'lmat', 'rendered']
+109 vs 109: ['attackB', 'dbx1', 'editAttackB', 'lmat', 'rendered']
+
+41) ['STAND', 1, 6, 6]:
+110 vs 110: ['attackB', 'dbx1', 'editAttackB', 'lmat', 'rendered']
+111 vs 111: ['attackB', 'editAttackB', 'lmat', 'rendered']
+
+42) ['STAND', 1, 6, 6]:
+Number of frames different.
+
+43) ['STAND', 1, 6, 6]:
+Number of frames different.
+
+44) ['STAND', 1, 6, 6]:
+120 vs 121: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+121 vs 122: ['attackB', 'cx1', 'dbx1', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+122 vs 123: ['attackB', 'cx1', 'cx2', 'dbx1', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+123 vs 124: ['attackB', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+124 vs 125: ['attackB', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+125 vs 126: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+
+45) ['STAND', 1, 6, 6]:
+126 vs 127: ['attackB', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+127 vs 128: ['attackB', 'cx2', 'dbx2', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+128 vs 129: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+129 vs 130: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+130 vs 131: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+131 vs 132: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+
+46) ['STAND', 1, 6, 6]:
+126 vs 127: ['attackB', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+127 vs 128: ['attackB', 'cx2', 'dbx2', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+128 vs 129: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+129 vs 130: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+130 vs 131: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+131 vs 132: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+
+47) ['STAND', 1, 6, 6]:
+132 vs 133: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+
+48) ['STAND', 1, 6, 6]:
+133 vs 134: ['attackB', 'cx1', 'cx2', 'cy1', 'dbx1', 'dbx2', 'dby1', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+134 vs 135: ['attackB', 'cx1', 'dbx1', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+135 vs 136: ['attack', 'attackB', 'cx1', 'cy1', 'dbx1', 'dby1', 'editAttack', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+136 vs 137: ['attack', 'attackB', 'cx1', 'dbx1', 'duration', 'editAttack', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+137 vs 138: ['attackB', 'cx1', 'dbx1', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+138 vs 139: ['attackB', 'dbx1', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+
+49) ['STAND', 1, 6, 6]:
+Number of frames different.
+
+50) ['STAND', 1, 6, 6]:
+146 vs 147: ['attackB', 'cy1', 'dby1', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+147 vs 148: ['attackB', 'cx2', 'dbx2', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+148 vs 149: ['attackB', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+149 vs 150: ['attackB', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+51) ['STAND', 1, 6, 6]:
+150 vs 151: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+151 vs 152: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+152 vs 153: ['attackB', 'cx2', 'cy2', 'dbx2', 'dby2', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+153 vs 154: ['attackB', 'cx2', 'dbx2', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+52) ['STAND', 1, 6, 6]:
+154 vs 155: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered']
+155 vs 156: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered']
+156 vs 157: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered']
+157 vs 158: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered']
+158 vs 159: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered']
+
+53) ['STAND', 1, 6, 6]:
+159 vs 160: ['attackB', 'by1', 'by2', 'cat', 'dby1', 'editAttackB', 'footY', 'index', 'ite', 'lmat', 'refIndex_2', 'rendered', 'uz']
+160 vs 161: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+54) ['STAND', 1, 6, 6]:
+161 vs 162: ['attackB', 'cx1_2', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+
+55) ['STAND', 1, 6, 6]:
+162 vs 163: ['attackB', 'cx2_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+163 vs 164: ['attackB', 'cx2_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+164 vs 165: ['attackB', 'cx2_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+165 vs 166: ['attackB', 'cx1_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+166 vs 167: ['attackB', 'cx1_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+167 vs 168: ['attackB', 'cx1_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+168 vs 169: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+169 vs 170: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+170 vs 171: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+56) ['STAND', 1, 6, 6]:
+171 vs 172: ['attackB', 'cx2_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+172 vs 173: ['attackB', 'cx2_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+173 vs 174: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+174 vs 175: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+175 vs 176: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+176 vs 177: ['attackB', 'cx2_2', 'cy1_2', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+177 vs 178: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+178 vs 179: ['attackB', 'cy1_2', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+57) ['STAND', 1, 6, 6]:
+179 vs 180: ['attackB', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+180 vs 181: ['attackB', 'cx1_2', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+58) ['STAND', 1, 6, 6]:
+181 vs 182: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+182 vs 183: ['attackB', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+59) ['STAND', 1, 6, 6]:
+183 vs 184: ['attackB', 'cy1_2', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+184 vs 185: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+60) ['STAND', 1, 6, 6]:
+185 vs 186: ['attackB', 'cx1', 'cx2', 'cy1', 'cy1_2', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+
+61) ['STAND', 1, 6, 6]:
+186 vs 187: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+187 vs 188: ['attackB', 'cx1', 'cx2', 'dbx1', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+
+62) ['STAND', 1, 6, 6]:
+188 vs 189: ['attackB', 'body', 'by1', 'by2', 'cat', 'cx1', 'cy2', 'dbx1', 'dby1', 'editAttackB', 'footY', 'index', 'ite', 'lmat', 'refIndex_2', 'rendered', 'uz']
+189 vs 190: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+190 vs 191: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+191 vs 192: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+192 vs 193: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+193 vs 194: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+194 vs 195: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+195 vs 196: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+196 vs 197: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+63) ['STAND', 1, 6, 6]:
+197 vs 198: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+198 vs 199: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+199 vs 200: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+200 vs 201: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+201 vs 202: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+202 vs 203: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+203 vs 204: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+204 vs 205: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+64) ['STAND', 1, 6, 6]:
+205 vs 206: ['attackB', 'body', 'by1', 'by2', 'cat', 'cx1', 'cy1_2', 'dbx1', 'dby1', 'dby2', 'editAttackB', 'footY', 'index', 'ite', 'lmat', 'lz', 'rendered', 'uz']
+206 vs 207: ['attackB', 'cx1', 'cy1', 'cy1_2', 'cy2_2', 'dbx1', 'dby1', 'dby2', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+
+65) ['STAND', 1, 6, 6]:
+207 vs 208: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+208 vs 209: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+66) ['STAND', 1, 6, 6]:
+209 vs 210: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+210 vs 211: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+211 vs 212: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+67) ['STAND', 1, 6, 6]:
+212 vs 213: ['attack', 'attackB', 'body', 'by1', 'by2', 'cat', 'cx1', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']    
+213 vs 214: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+68) ['STAND', 1, 6, 6]:
+216 vs 217: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+217 vs 218: ['attackB', 'dbx1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+69) ['STAND', 1, 6, 6]:
+218 vs 219: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+219 vs 220: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+220 vs 221: ['attackB', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+221 vs 222: ['attackB', 'cx1', 'cx2', 'cy1_2', 'dbx2', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+222 vs 223: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+70) ['STAND', 1, 6, 6]:
+223 vs 224: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+224 vs 225: ['attackB', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+225 vs 226: ['attackB', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+71) ['STAND', 1, 6, 6]:
+226 vs 227: ['attackB', 'cx2_2', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+227 vs 228: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+228 vs 229: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+229 vs 230: ['attackB', 'cx2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+72) ['STAND', 1, 6, 6]:
+230 vs 231: ['attackB', 'body', 'by1', 'by2', 'cat', 'cy2', 'dby1', 'duration', 'editAttackB', 'fSpec', 'footY', 'index', 'ite', 'lmat', 'refIndex_2', 'rendered', 'uz']
+231 vs 232: ['attackB', 'body', 'by1', 'dbx1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+232 vs 233: ['attackB', 'body', 'by1', 'dbx1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+233 vs 234: ['attackB', 'dbx2', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+234 vs 235: ['attackB', 'dbx1', 'dbx2', 'dby1', 'dby2', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+235 vs 236: ['attackB', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+236 vs 237: ['allowKeyTrigger', 'attackB', 'dbx1', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+73) ['STAND', 1, 6, 6]:
+237 vs 238: ['attackB', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+238 vs 239: ['attackB', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+239 vs 240: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+240 vs 241: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+241 vs 242: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+242 vs 243: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+243 vs 244: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+244 vs 245: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+74) ['STAND', 1, 6, 6]:
+245 vs 246: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+246 vs 247: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+247 vs 248: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+248 vs 249: ['attackB', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+249 vs 250: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+
+75) ['STAND', 1, 6, 6]:
+250 vs 251: ['attackB', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+251 vs 252: ['attackB', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+
+76) ['STAND', 1, 6, 6]:
+252 vs 253: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+253 vs 254: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+254 vs 255: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+255 vs 256: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+256 vs 257: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+257 vs 258: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+258 vs 259: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+77) ['STAND', 1, 6, 6]:
+259 vs 260: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+
+78) ['STAND', 1, 6, 6]:
+260 vs 261: ['attackB', 'cx1', 'cx2', 'cy1', 'cy1_2', 'cy2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+79) ['STAND', 1, 6, 6]:
+261 vs 262: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+80) ['STAND', 1, 6, 6]:
+262 vs 263: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+263 vs 264: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+264 vs 265: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+265 vs 266: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+81) ['STAND', 1, 6, 6]:
+271 vs 272: ['attackB', 'cy2', 'dby2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+272 vs 273: ['attackB', 'cx2', 'cy2', 'dbx2', 'dby2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+273 vs 274: ['attackB', 'cx2', 'cy2', 'dbx2', 'dby2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+274 vs 275: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+
+82) ['STAND', 1, 6, 6]:
+275 vs 276: ['attackB', 'cy1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+276 vs 277: ['attackB', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+277 vs 278: ['attackB', 'cx2', 'cy2', 'dbx2', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+278 vs 279: ['attackB', 'cx1', 'cx2', 'cy2', 'dbx2', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+279 vs 280: ['attack', 'attackB', 'bx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+280 vs 281: ['attack', 'attackB', 'bx2', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+83) ['STAND', 1, 6, 6]:
+293 vs 294: ['attackB', 'cy1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+294 vs 295: ['attackB', 'cy1', 'cy2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+295 vs 296: ['attack', 'attackB', 'bx2', 'cx2', 'cy2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+296 vs 297: ['attackB', 'cx1', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+297 vs 298: ['attackB', 'cx2', 'cy1', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+298 vs 299: ['attack', 'attackB', 'cx2', 'dbx2', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+84) ['STAND', 1, 6, 6]:
+300 vs 301: ['attackB', 'cy1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+301 vs 302: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+302 vs 303: ['attackB', 'cx1', 'cy1', 'cy2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+303 vs 304: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+304 vs 305: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+305 vs 306: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+85) ['STAND', 1, 6, 6]:
+306 vs 307: ['attackB', 'dby2', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+307 vs 308: ['attackB', 'dbx2', 'dby2', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+308 vs 309: ['attackB', 'dbx2', 'dby2', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+309 vs 310: ['attackB', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+310 vs 311: ['attack', 'attackB', 'bx2', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'rid', 'uz']
+311 vs 312: ['attackB', 'cy1_2', 'duration', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+
+86) ['STAND', 1, 6, 6]:
+306 vs 307: ['attackB', 'dby2', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+307 vs 308: ['attackB', 'dbx2', 'dby2', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+308 vs 309: ['attackB', 'dbx2', 'dby2', 'duration', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+309 vs 310: ['attackB', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+310 vs 311: ['attack', 'attackB', 'bx2', 'duration', 'editAttackB', 'index', 'lmat', 'rendered', 'rid', 'uz']
+311 vs 312: ['attackB', 'cy1_2', 'duration', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+
+87) ['STAND', 1, 6, 6]:
+312 vs 313: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+313 vs 314: ['attackB', 'body', 'by2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+314 vs 315: ['attackB', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+315 vs 316: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+88) ['STAND', 1, 6, 6]:
+316 vs 317: ['attackB', 'cy2', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+89) ['STAND', 1, 6, 6]:
+317 vs 318: ['attackB', 'cx1', 'cy1', 'dbx1', 'dby1', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+318 vs 319: ['attackB', 'cx2', 'cy1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+319 vs 320: ['attackB', 'cy2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+90) ['STAND', 1, 6, 6]:
+320 vs 321: ['attackB', 'cx2', 'cy1', 'dby1', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+321 vs 322: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+322 vs 323: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+323 vs 324: ['attackB', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+324 vs 325: ['attackB', 'cy2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+325 vs 326: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+326 vs 327: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+327 vs 328: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+328 vs 329: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+329 vs 330: ['attackB', 'cx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+91) ['STAND', 1, 6, 6]:
+320 vs 321: ['attackB', 'cx2', 'cy1', 'dby1', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+321 vs 322: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+322 vs 323: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+323 vs 324: ['attackB', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+324 vs 325: ['attackB', 'cy2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+325 vs 326: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+326 vs 327: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+327 vs 328: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+328 vs 329: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+329 vs 330: ['attackB', 'cx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+92) ['STAND', 1, 6, 6]:
+320 vs 321: ['attackB', 'cx2', 'cy1', 'dby1', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+321 vs 322: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+322 vs 323: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+323 vs 324: ['attackB', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+324 vs 325: ['attackB', 'cy2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+325 vs 326: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+326 vs 327: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+327 vs 328: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+328 vs 329: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+329 vs 330: ['attackB', 'cx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+93) ['STAND', 1, 6, 6]:
+320 vs 321: ['attackB', 'cx2', 'cy1', 'dby1', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+321 vs 322: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+322 vs 323: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+323 vs 324: ['attackB', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+324 vs 325: ['attackB', 'cy2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+325 vs 326: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+326 vs 327: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+327 vs 328: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+328 vs 329: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+329 vs 330: ['attackB', 'cx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+94) ['STAND', 1, 6, 6]:
+320 vs 321: ['attackB', 'cx2', 'cy1', 'dby1', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+321 vs 322: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+322 vs 323: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+323 vs 324: ['attackB', 'editAttackB', 'footY', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+324 vs 325: ['attackB', 'cy2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+325 vs 326: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+326 vs 327: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+327 vs 328: ['attackB', 'cx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+328 vs 329: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+329 vs 330: ['attackB', 'cx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+95) ['STAND', 1, 6, 6]:
+330 vs 331: ['attackB', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+331 vs 332: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+
+96) ['STAND', 1, 6, 6]:
+332 vs 333: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+333 vs 334: ['attackB', 'cy1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+334 vs 335: ['attackB', 'cy1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+335 vs 336: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+97) ['STAND', 1, 6, 6]:
+336 vs 337: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+337 vs 338: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+338 vs 339: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+339 vs 340: ['attackB', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered']
+
+98) ['STAND', 1, 6, 6]:
+Number of frames different.
+
+99) ['STAND', 1, 6, 6]:
+364 vs 365: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+365 vs 366: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+366 vs 367: ['attackB', 'cx1', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+367 vs 368: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+368 vs 369: ['attackB', 'cx2_2', 'cy1_2', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+369 vs 370: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+370 vs 371: ['attackB', 'cy1_2', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+371 vs 372: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+372 vs 373: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+373 vs 374: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+100) ['STAND', 1, 6, 6]:
+366 vs 367: ['attackB', 'cx1', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'rendered', 'uz']
+367 vs 368: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+368 vs 369: ['attackB', 'cx2_2', 'cy1_2', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+369 vs 370: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+370 vs 371: ['attackB', 'cy1_2', 'cy2_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+371 vs 372: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+372 vs 373: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+373 vs 374: ['attackB', 'cy1_2', 'editAttackB', 'index', 'lmat', 'lz', 'refIndex', 'rendered']
+
+101) ['STAND', 1, 6, 6]:
+374 vs 375: ['attackB', 'cx1', 'cx2', 'dbx1', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+375 vs 376: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+102) ['STAND', 1, 6, 6]:
+376 vs 377: ['attackB', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+377 vs 378: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz', 'vx']
+378 vs 379: ['attackB', 'cx1', 'cx2', 'dbx1', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+103) ['STAND', 1, 6, 6]:
+379 vs 380: ['attackB', 'cx2', 'cy1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz', 'vx']
+380 vs 381: ['attackB', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered', 'vx']
+381 vs 382: ['attackB', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered', 'vx']
+382 vs 383: ['attackB', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered', 'vx']
+383 vs 384: ['attackB', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered', 'vx']
+384 vs 385: ['attackB', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered', 'vx']
+385 vs 386: ['attackB', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered', 'vx']
+386 vs 387: ['attackB', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'refIndex_2', 'rendered', 'vx']
+
+104) ['STAND', 1, 6, 6]:
+387 vs 388: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+388 vs 389: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+105) ['STAND', 1, 6, 6]:
+389 vs 390: ['attackB', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+390 vs 391: ['attackB', 'body', 'bx2', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex_2', 'rendered', 'uz']
+391 vs 392: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+392 vs 393: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+106) ['STAND', 1, 6, 6]:
+393 vs 394: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+394 vs 395: ['attackB', 'body', 'bx2', 'cx1', 'cx2', 'dbx1', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+395 vs 396: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+396 vs 397: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+107) ['STAND', 1, 6, 6]:
+397 vs 398: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+398 vs 399: ['attackB', 'cx2', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+399 vs 400: ['attackB', 'dbx1', 'dbx2', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+400 vs 401: ['attackB', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+401 vs 402: ['attackB', 'body', 'bx1', 'bx2', 'cy1', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+402 vs 403: ['attackB', 'dbx1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+
+108) ['STAND', 1, 6, 6]:
+403 vs 404: ['attackB', 'body', 'bx2', 'dbx1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+404 vs 405: ['attack', 'attackB', 'body', 'bx1', 'bx2', 'dbx1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'refIndex', 'rendered']
+405 vs 406: ['attackB', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered']
+
+109) ['STAND', 1, 6, 6]:
+406 vs 407: ['attackB', 'cx1', 'dbx1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+407 vs 408: ['attackB', 'cx1', 'cy2', 'dbx1', 'dby2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+408 vs 409: ['attackB', 'cx1', 'cx2', 'cy2', 'dbx1', 'dbx2', 'dby2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+110) ['STAND', 1, 6, 6]:
+409 vs 410: ['attackB', 'cx2', 'cy1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+410 vs 411: ['attackB', 'cx1', 'cx2', 'cy1', 'dbx1', 'dbx2', 'dby1', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+111) ['STAND', 1, 6, 6]:
+411 vs 412: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+412 vs 413: ['attackB', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+112) ['STAND', 1, 6, 6]:
+413 vs 414: ['attackB', 'cx1', 'cx2', 'dbx1', 'dbx2', 'editAttackB', 'index', 'lmat', 'rendered', 'uz']
+
+Different table: ['attackB', 'editAttackB', 'lmat', 'rendered', 'uz', 'cx1', 'cx2', 'dbx1', 'dbx2', 'body', 'by1', 'by2', 'cy1', 'cy2', 'footY', 'lp3', 'dby1', 'dby2', 'footDy', 'lp1', 'editBody', 'UseDefBody', 'bx2', 'index', 'duration', 'refIndex', 'attack', 'editAttack', 'cat', 'ite', 'refIndex_2', 'cx1_2', 'lz', 'cx2_2', 'cy1_2', 'cy2_2', 'fSpec', 'allowKeyTrigger', 'rid', 'vx', 'bx1']
+
+check_list = ['duration', 'attack', 'editAttack', 'cat', 'ite', 'fSpec', 'allowKeyTrigger', 'rid', 'vx', 'bx1']

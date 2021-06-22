@@ -1,0 +1,100 @@
+42) ['LIE_TURN', 112, 117, 6]:
+Numbers of frames are different.
+
+43) ['SUPER_PUNCH_TO_ATTACK2', 119, 125, 7]:
+Numbers of frames are different.
+
+44) ['ATTACK2', 120, 125, 6]:
+121 vs 122: ['duration']
+
+45) ['ATTACK1', 126, 131, 6]:
+127 vs 128: ['duration']
+
+46) ['ATTACK3', 126, 131, 6]:
+127 vs 128: ['duration']
+
+48) ['ATTACK4', 133, 138, 6]:
+133 vs 134: ['duration']
+134 vs 135: ['duration']
+135 vs 136: ['attack', 'editAttack']
+136 vs 137: ['attack', 'duration', 'editAttack']
+137 vs 138: ['duration']
+138 vs 139: ['duration']
+
+49) ['ATTACK5', 139, 145, 7]:
+Numbers of frames are different.
+
+50) ['JUMP_ATTACK', 146, 149, 4]:
+146 vs 147: ['duration']
+147 vs 148: ['duration']
+148 vs 149: ['duration']
+149 vs 150: ['duration']
+
+51) ['DASH_ATTACK', 150, 153, 4]:
+152 vs 153: ['duration']
+153 vs 154: ['duration']
+
+53) ['ROTATE_END', 159, 160, 2]:
+159 vs 160: ['cat', 'ite']
+
+62) ['_CAT_WALK', 188, 196, 9]:
+188 vs 189: ['cat', 'ite']
+
+64) ['_CAT_RUN_STOP', 205, 206, 2]:
+205 vs 206: ['cat', 'ite']
+
+67) ['_CAT_JUMP_LAND', 212, 213, 2]:
+212 vs 213: ['attack', 'cat']
+
+72) ['_CAT_ROTATE', 230, 236, 7]:
+230 vs 231: ['cat', 'duration', 'fSpec', 'ite']
+233 vs 234: ['duration']
+234 vs 235: ['duration']
+235 vs 236: ['duration']
+236 vs 237: ['allowKeyTrigger', 'duration']
+
+82) ['_RID_ATTACK1', 275, 280, 6]:
+279 vs 280: ['attack']
+280 vs 281: ['attack']
+
+83) ['_RID_ATTACK3', 293, 298, 6]:
+295 vs 296: ['attack']
+298 vs 299: ['attack']
+
+85) ['_RID_RUN_ATTACK', 306, 311, 6]:
+306 vs 307: ['duration']
+307 vs 308: ['duration']
+308 vs 309: ['duration']
+309 vs 310: ['duration']
+310 vs 311: ['attack', 'duration', 'rid']
+311 vs 312: ['duration']
+
+86) ['_RID_RUN_FORWARD_ATTACK', 306, 311, 6]:
+306 vs 307: ['duration']
+307 vs 308: ['duration']
+308 vs 309: ['duration']
+309 vs 310: ['duration']
+310 vs 311: ['attack', 'duration', 'rid']
+311 vs 312: ['duration']
+
+98) ['SUPER_PUNCH', 346, 363, 18]:
+Numbers of frames are different.
+
+102) ['RUN_CATCH_START', 376, 378, 3]:
+377 vs 378: ['vx']
+
+103) ['RUN_CATCH', 379, 386, 8]:
+379 vs 380: ['vx']
+380 vs 381: ['vx']
+381 vs 382: ['vx']
+382 vs 383: ['vx']
+383 vs 384: ['vx']
+384 vs 385: ['vx']
+385 vs 386: ['vx']
+386 vs 387: ['vx']
+
+107) ['ROTATE_DROP', 397, 402, 6]:
+401 vs 402: ['bx1']
+
+108) ['ROTATE_DROP_END', 403, 405, 3]:
+404 vs 405: ['attack', 'bx1']
